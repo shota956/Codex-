@@ -1,0 +1,7 @@
+interface:
+  display_name: "Invoice PDF Workflow"
+  short_description: "Run and maintain this CSV-to-PDF workflow."
+  default_prompt: "Use $invoice-pdf-workflow to set up, run, or modify this invoice PDF automation safely."
+
+policy:
+  allow_implicit_invocation: true

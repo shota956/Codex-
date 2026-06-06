@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+納品書・請求書/
+.DS_Store
